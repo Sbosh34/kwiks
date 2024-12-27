@@ -1,0 +1,32 @@
+/*The big Kwiks styling*/
+#namestore{
+    font-size:40px;
+    margin:0;
+}
+
+body{
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', 'Geneva', Verdana, sans-serif;
+    background-color:lightblue;
+    display:flex;
+    justify-content:center;
+    align-items:flex-start;
+    height:100vh;
+
+}
+#email{
+    border-radius:6px;
+    border: 1px lightblue solid;
+    height:25px;
+}
+
+/*"Get Started" button*/
+#submit{
+    height:30px;
+    border-radius:15px;
+    border: none;
+    background-color: rgb(16, 96, 255);
+    color:lightblue;
+    font-weight:bold;
+    cursor:pointer;
+    margin-top:10px;
+}
